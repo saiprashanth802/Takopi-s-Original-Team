@@ -616,7 +616,7 @@ Example:echo "[Paste README content]" > README.md
 Commit and Push
 git add .
 git commit -m "Initial commit for Indian Bovine Breeds ResNet50 classification"
-git remote add origin https://github.com/your-username/indian-bovine-resnet.git
+git remote add origin https://github.com/saiprashanth802/Takopi-s-Original-Team.git
 git branch -M main
 git push -u origin main
 
